@@ -17,14 +17,20 @@ pip install pandas scikit-learn requests numpy
 🚀 How to Use
 
 Clone the repository:
+
 bash
 git clone https://github.com/yourusername/language-detection.git
+
 cd language-detection
+
 Run the script:
+
 bash
+
 python language_detection.py
+
 Enter text when prompted:
-plaintext
+
 Enter a Text: வணக்கம் என் பெயர் அக்ஷய் ஷர்மா
 ['Tamil']
 
